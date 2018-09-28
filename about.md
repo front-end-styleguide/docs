@@ -11,10 +11,12 @@ Fynn Becker
 [info@fynn-becker.de](mailto:info@fynn-becker.de)  
 +49 160 6737777
 
-Brandenburger Str. 30
+Brandenburger Straße 30
 21244 Buchholz 
 Germany
 
 ## Acknowledgement
 
 These docs are powered by [VuePress](https://vuepress.vuejs.org) and hosted on [Netlify](https://www.netlify.com).
+
+The Pangolin CLI is heavily inspired by [Vue CLI](https://cli.vuejs.org).

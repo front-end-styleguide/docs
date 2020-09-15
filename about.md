@@ -8,7 +8,7 @@ The name _Pangolin_ tries to raise awareness for the [dire situation](https://en
 
 Fynn Becker
 
-[info@fynn-becker.de](mailto:info@fynn-becker.de)  
+[fynn@hey.com](mailto:fynn@hey.com)  
 +49 160 6737777
 
 Brandenburger Straße 30  

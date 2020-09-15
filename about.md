@@ -9,10 +9,11 @@ The name _Pangolin_ tries to raise awareness for the [dire situation](https://en
 Fynn Becker
 
 [fynn@hey.com](mailto:fynn@hey.com)  
-+49 160 6737777
++49 40 3020809676
 
-Brandenburger Straße 30  
-21244 Buchholz  
+LfdA - Labor für digitale Angelegenheiten GmbH  
+Lilienstraße 11  
+20095 Hamburg  
 Germany
 
 ## Acknowledgement
